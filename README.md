@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Jeyaprakash 👋
 
-<!--
-**jeyaprakash011/jeyaprakash011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded Firmware Engineer passionate about building real-world embedded systems and IoT solutions.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Embedded C
+- STM32 / ESP32 / PIC Microcontrollers
+- UART, SPI, I2C, CAN Communication
+- Firmware Development
+- IoT Systems
+- Hardware Debugging
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Smart Parking System (ESP32 + IoT)
+- IoT Based Smart Home Appliance Control
+- Motor Fault Detection System
+- ESP32-CAM Telegram Monitoring System
+
+## 🛠 Tools
+- Arduino IDE
+- STM32CUBE IDE
+- MP LAB
+- VS Code
+- Proteus
+- Git
+- Oscilloscope
+- Multimeter
+
+## 🌱 Currently Learning
+- FreeRTOS
+- DSA
+- Advanced STM32 Firmware Development
+- Embedded Linux
+
+## 📫 Contact
+- Email: jeyaprakashclg@gmail.com
+- Mobile: +91 6369042385
+- LinkedIn: www.linkedin.com/in/jeyaprakashv11
+- GitHub: https://github.com/jeyaprakash011
