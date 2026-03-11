@@ -11,10 +11,14 @@ Embedded Firmware Engineer passionate about building real-world embedded systems
 - Hardware Debugging
 
 ## 🚀 Projects
-- Smart Parking System (ESP32 + IoT)
-- IoT Based Smart Home Appliance Control
-- Motor Fault Detection System
-- ESP32-CAM Telegram Monitoring System
+- pick-place-robot
+- Auto_Water_Line_Conveyor
+- lora-mesh-network
+- Napkin-Vending-Machine
+- RFID-AGV-Robot
+- ev-motor-controller-test-jig
+- 
+
 
 ## 🛠 Tools
 - Arduino IDE
