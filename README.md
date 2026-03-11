@@ -17,7 +17,10 @@ Embedded Firmware Engineer passionate about building real-world embedded systems
 - Napkin-Vending-Machine
 - RFID-AGV-Robot
 - ev-motor-controller-test-jig
-- 
+- Pulse-Oximeter-ESP32
+- BP-Telegram-ESP32CAM
+- napkin-shredder
+- waste-segregation-es-32
 
 
 ## 🛠 Tools
