@@ -4,7 +4,8 @@ Embedded Firmware Engineer passionate about building real-world embedded systems
 
 ## 🔧 Skills
 - Embedded C
-- STM32 / ESP32 / PIC Microcontrollers
+- ARM7 Core
+- LPC2129, ESP32
 - UART, SPI, I2C, CAN Communication
 - Firmware Development
 - IoT Systems
@@ -25,18 +26,15 @@ Embedded Firmware Engineer passionate about building real-world embedded systems
 
 ## 🛠 Tools
 - Arduino IDE
-- STM32CUBE IDE
-- MP LAB
+- Keil µVision
+- Flash magic
 - VS Code
 - Proteus
 - Git
-- Oscilloscope
-- Multimeter
 
 ## 🌱 Currently Learning
-- FreeRTOS
+- TCP/IP
 - DSA
-- Advanced STM32 Firmware Development
 - Embedded Linux
 
 ## 📫 Contact
